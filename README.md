@@ -22,6 +22,13 @@ Welcome to the **ultimate battle of wits** against your computer—a classic gam
 
 ---
 
+## 💻 How to Play
+1. Clone this repository:
+   -- git clone https://github.com/yourusername/rock-paper-scissors
+2. Run the Python script:
+   -- python rock_paper_scissors.py
+3. Now enjoy the game. Easy peasy! 🍋
+
 ## 🚀 Fun Fact
 - Did you know that Rock, Paper, Scissors is over 2000 years old? It originated in China and was known as shoushiling. Yep, our little game here has a long and epic history. Now you’re part of it!
 
